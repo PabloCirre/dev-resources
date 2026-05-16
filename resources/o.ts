@@ -170,6 +170,23 @@ export const resources: Resource[] = [
         url: 'https://openchakra.app/',
     },
     {
+        name: 'OpenMercantil',
+        description:
+            'Independent Spanish public-data API for company search, BORME registry-event timelines, downloads and source methodology.',
+        categories: ['API Building', 'Database', 'Documentation'],
+        url: 'https://openmercantil.es/api/documentacion',
+        keywords: [
+            'open data',
+            'public data',
+            'Spain',
+            'Spanish companies',
+            'company registry',
+            'BORME',
+            'REST API',
+            'OpenAPI',
+        ],
+    },
+    {
         name: 'Opensource.Builders',
         description: 'Find open-source alternatives to popular software.',
         categories: ['Open Source'],
